@@ -1,4 +1,4 @@
-## Hi there 👋
+ Olá seja bem vindo ao meu repositório! Fique a vontade para ver meus códigos, ver como funcionam, me dar dicas ou sugestões. Aproveita me segue aqui no perfil e veja alguns projetos que tenho, em breve irei colocando mais projetos.👋
 
 <!--
 **josegabrieldev/josegabrieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
