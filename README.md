@@ -45,4 +45,6 @@ sempre buscando novas oportunidades para aprender e crescer meus conhecimentos. 
 </p>
 <br>
 
-![snake animation](https://github.com/josegabrieldev/josegabrieldev/blob/output/github-contribution-grid-snake.svg)
+<div align=center>
+ <img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/output/snake.svg" alt="Snake animation" />
+</div>
