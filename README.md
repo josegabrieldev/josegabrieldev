@@ -24,27 +24,24 @@ sempre buscando novas oportunidades para aprender e crescer meus conhecimentos. 
   <a href = "https://api.whatsapp.com/message/TWX7WBVIHVQ3G1?autoload=1&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <br>
 
+---
+
+<div align=center>
+ <img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/output/snake.svg" alt="Snake animation" />
+</div>
+
   ### 📊 Estatísticas
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=josegabrieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-<img 
+    src="https://github-readme-stats.vercel.app/api?username=josegabrieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+ <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrieldev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-<br>
-
-<div align=center>
- <img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/output/snake.svg" alt="Snake animation" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrieldev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
