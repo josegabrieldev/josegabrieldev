@@ -1,4 +1,4 @@
-## Oiee! Eu sou josegabrieldev 👦🏾💻
+## Oiee! Eu sou José Gabriel 👦🏾💻
 
 **`Desenvolvedor fullstack`**
 
@@ -15,7 +15,8 @@ sempre buscando novas oportunidades para aprender e crescer meus conhecimentos. 
   <br>
   
   ##
- 
+
+ ### Redes Socias
   <a href="https://www.youtube.com/@thoralenda21" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/jgabrieltech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  	<a href="https://x.com/josegabrieldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
