@@ -1,9 +1,9 @@
 ## Oiee! Eu sou José Gabriel 👦🏾💻
 
-**`Desenvolvedor fullstack`**
+**`Desenvolvedor Front End`**
 
 Me chamo José Gabriel. Desenvolvedor em formação, tenho 21 anos sou paraibano apaixonado por tecnologia!
-Atualmente estou aprendendo HTML e CSS, com o objetivo de me tornar Desenvolvedor Full Stack. Sou bastante esforçado e dedicado ao meu trabalho,
+Atualmente estou aprendendo HTML e CSS, com o objetivo de me tornar Desenvolvedor Front End. Sou bastante esforçado e dedicado ao meu trabalho,
 sempre buscando novas oportunidades para aprender e crescer meus conhecimentos. Busco colaborar e contribuir em projetos interessantes da melhor forma.
 
 ##
