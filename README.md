@@ -29,3 +29,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018582458498)
 [![Kwai](https://img.shields.io/badge/Kwai-FF9800?style=for-the-badge&logo=kwai&logoColor=white)](https://k.kwai.com/u/@thoralendaff/UCfAxasg)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@thor.a.lenda?_t=ZM-8yZnzaX27ei&_r=1)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegabrieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de José Gabriel"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrieldev&theme=tokyonight&layout=compact&langs_count=8&title=Tecnologias+mais+usadas" alt="Linguagens mais usadas"/>
+</div>
