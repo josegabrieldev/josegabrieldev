@@ -38,3 +38,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegabrieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de José Gabriel"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrieldev&theme=tokyonight&layout=compact&langs_count=8&title=Tecnologias+mais+usadas" alt="Linguagens mais usadas"/>
 </div>
+
+<img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/output/snake.svg" alt="Snake animation" />
