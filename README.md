@@ -23,8 +23,8 @@
 ## 🌐 Vamos nos conectar?
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josegabrieldev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/TWX7WBVIHVQ3G1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgabrielsilva21@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5599999999999?text=Olá!%20Estou%20entrando%20em%20contato%20pelo%20link%20do%20GitHub.%20Gostaria%20de%20saber%20mais%20sobre%20seus%20projetos)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgabrielsilva21@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegabrieldev/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018582458498)
 [![Kwai](https://img.shields.io/badge/Kwai-FF9800?style=for-the-badge&logo=kwai&logoColor=white)](https://k.kwai.com/u/@thoralendaff/UCfAxasg)
