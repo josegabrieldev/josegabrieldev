@@ -26,10 +26,10 @@
   <a href="https://www.instagram.com/josegabrieldev">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/5583996860603?text=Olá!%20Estou%20entrando%20em%20contato%20pelo%20link%20do%20GitHub.%20Gostaria%20de%20saber%20mais%20sobre%20seus%20projetos">
+  <a href="https://wa.me/5583986040633?text=Olá!%20Estou%20entrando%20em%20contato%20pelo%20link%20do%20GitHub.%20Gostaria%20de%20saber%20mais%20sobre%20seus%20projetos">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:devgabrielsilva21@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato">
+  <a href="mailto:josegabriel.webdev@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/josegabrieldev/">
