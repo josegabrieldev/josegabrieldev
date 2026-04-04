@@ -1,58 +1,80 @@
-## 👋🏾 Olá! Eu sou o José Gabriel
+<!-- Onda Animada (Topo) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0168fa&height=180&section=header&text=José%20Gabriel%20|%20Front-End%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-💻 **Desenvolvedor Web Front-End**, apaixonado por tecnologia e design  
-🎯 Foco em criar interfaces modernas, acessíveis e funcionais — com atenção aos detalhes e à experiência do usuário.  
-🧠 Conhecimento em **HTML5**, **CSS3** e **JavaScript** — sempre em busca de evolução e boas práticas.  
-🌱 Acredito que cada projeto é uma oportunidade de aprender, transformar e inspirar.  
-💬 **Vamos nos conectar?** Me acompanhe nas redes e troque uma ideia comigo!
+<!-- Apresentação -->
+## 👋🏾 Olá! Eu sou José Gabriel
+
+Sou um desenvolvedor **Front-End** dedicado a criar interfaces que fazem sentido, com atenção a detalhes visuais, usabilidade e performance.  
+Busco estar em constante evolução para entregar experiências digitais modernas, bonitas e funcionais.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<div align="center">
+
+### 🎨 **Front-End & UI/UX**
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
 </div>
-
----
-
-## 🌐 Vamos nos conectar?
-
-<p align="center">
-  <a href="https://www.instagram.com/josegabrieldev">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://wa.me/5583986040633?text=Olá!%20Estou%20entrando%20em%20contato%20pelo%20link%20do%20GitHub.%20Gostaria%20de%20saber%20mais%20sobre%20seus%20projetos">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:josegabriel.webdev@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/josegabrieldev/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100018582458498">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://k.kwai.com/u/@thoralendaff/UCfAxasg">
-    <img src="https://img.shields.io/badge/Kwai-FF9800?style=for-the-badge&logo=kwai&logoColor=white" alt="Kwai">
-  </a>
-  <a href="https://www.tiktok.com/@thor.a.lenda?_t=ZM-8yZnzaX27ei&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegabrieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de José Gabriel"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegabrieldev&theme=tokyonight&layout=compact&langs_count=8&title=Tecnologias+mais+usadas" alt="Linguagens mais usadas"/>
+
+![Badges Animados](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&random=false&width=435&lines=HTML5+%7C+CSS3+%7C+JavaScript;Front-End+Responsivo+%26+Moderno;UI+Design+%7C+UX+Design;Código+limpo+e+focado+em+experiência;Criando+hoje+as+interfaces+do+amanhã)
+
 </div>
 
-<img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/output/snake.svg" alt="Snake animation" />
+---
+
+## 🚀 Projetos em Destaque
+
+### 🌐 **Portfólio Profissional**
+Meu portfólio completo, apresentando meus projetos, identidade visual e habilidades como Front-End Developer.
+
+---
+
+### 📜 **Cordel Moderno**
+Projeto visual inspirado no cordel brasileiro, com tipografia estilizada e layout responsivo.
+
+---
+
+### 📱 **Projeto Social**
+Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentação visual elegante na tela.
+
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegabrieldev&show_icons=true&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🐍 Cobrinha Modernizada (Modelo C)
+> A cobrinha aparece automaticamente ao gerar o gráfico no actions.
+
+<img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+
+---
+
+🌐 Onde me encontrar
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/josegabrieldev/" target="_blank"> <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> <a href="https://wa.me/5583986040633?text=Olá!%20Estou%20entrando%20em%20contato%20pelo%20GitHub." target="_blank"> <img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+  </a> <a href="mailto:josegabriel.webdev@gmail.com" target="_blank"> <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+</div>
+
+---
+
+<!-- Onda Final -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0168fa&height=120&section=footer"/>
