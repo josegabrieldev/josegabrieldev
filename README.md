@@ -1,5 +1,5 @@
 <!-- Onda Animada (Topo) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0168fa&height=180&section=header&text=José%20Gabriel%20|%20Front-End%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4A00E0,100:00FF85&height=180&section=header&text=José%20Gabriel%20|%20Front-End%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Apresentação -->
 ## 👋🏾 Olá! Eu sou José Gabriel
@@ -54,7 +54,7 @@ Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentaç
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegabrieldev&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=josegabrieldev&cc=00000000&tc=1E90FF&ic=1E90FF&bc=00000000"/>
 
 </div>
 
@@ -77,4 +77,4 @@ Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentaç
 ---
 
 <!-- Onda Final -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0168fa&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4A00E0,100:00FF85&height=120&section=footer"/>
