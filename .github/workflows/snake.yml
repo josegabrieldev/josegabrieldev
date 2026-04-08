@@ -14,7 +14,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Gerar a cobrinha
-        id: snake-generate
         uses: Platane/snk@v3
         with:
           github_user_name: josegabrieldev
