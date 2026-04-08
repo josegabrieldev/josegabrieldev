@@ -1,9 +1,9 @@
-name: Generate Snake Animation
+name: Gerar Cobrinha (Snake)
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todos os dias à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Gera todos os dias à meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
 
 jobs:
   build:
@@ -13,19 +13,18 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar animação da cobrinha
+      - name: Gerar a cobrinha
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: josegabrieldev
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
 
-      - name: Publicar no branch Saída
-        uses: crazy-max/ghaction-git@v3
+      - name: Publicar arquivos da cobrinha na branch Saída
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: Saída
-          commit_message: "Atualizando animação da cobrinha"
-          allow_empty_commit: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: Saída
+          publish_dir: dist
