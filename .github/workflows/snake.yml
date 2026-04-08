@@ -2,29 +2,29 @@ name: Gerar Cobrinha (Snake)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Gera todos os dias à meia-noite
-  workflow_dispatch:      # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Gerar a cobrinha
+        id: snake-generate
         uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: josegabrieldev
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
 
-      - name: Publicar arquivos da cobrinha na branch Saída
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Publicar na branch Saída
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: Saída
-          publish_dir: dist
+          branch: Saída
+          folder: dist
+          clean: true
