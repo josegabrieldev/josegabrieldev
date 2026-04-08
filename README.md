@@ -64,8 +64,8 @@ Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentaç
 > A cobrinha aparece automaticamente ao gerar o gráfico no actions.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/Saída/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/Saída/github-snake.svg" alt="snake animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/saida/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/saida/github-snake.svg" alt="snake animation"/>
 </picture>
 
 ---
