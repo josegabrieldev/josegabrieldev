@@ -1,5 +1,8 @@
 name: Gerar Cobrinha (Snake)
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -21,9 +24,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg
 
-      - name: Publicar na branch Saída
+      - name: Publicar na branch saida
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: Saída
+          branch: saida
           folder: dist
           clean: true
