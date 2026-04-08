@@ -63,7 +63,10 @@ Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentaç
 ## 🐍 Cobrinha Modernizada (Modelo C)
 > A cobrinha aparece automaticamente ao gerar o gráfico no actions.
 
-<img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/Saída/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/Saída/github-snake.svg" alt="snake animation"/>
+</picture>
 
 ---
 
