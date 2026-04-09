@@ -20,6 +20,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: josegabrieldev
+
+          snake_color: "#00ADEF"            # Azul Tecnológico (cor da cobrinha)
+          background_color: "#0F1724"       # Fundo Blue Steel
+          grid_color_dark: "#1A2435"        # Quadrados escuros
+          grid_color_light: "#23324A"       # Quadrados claros
+
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
