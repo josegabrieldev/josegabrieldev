@@ -16,15 +16,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Gerar a cobrinha
+      - name: Gerar a Cobrinha Blue Steel
         uses: Platane/snk@v3
         with:
           github_user_name: josegabrieldev
 
-          snake_color: "#00ADEF"            # Azul Tecnológico (cor da cobrinha)
-          background_color: "#0F1724"       # Fundo Blue Steel
-          grid_color_dark: "#1A2435"        # Quadrados escuros
-          grid_color_light: "#23324A"       # Quadrados claros
+          # Tema 100% personalizado DevSnake Blue Steel
+          theme: |
+            {
+              "background": "#0F1724",
+              "snake": "#00ADEF",
+
+              "color_empty": "#1A2435",
+              "color_level_0": "#1A2435",
+
+              "color_level_1": "#23324A",
+              "color_level_2": "#2D3B55",
+              "color_level_3": "#3A4A6A",
+              "color_level_4": "#00ADEF"
+            }
 
           outputs: |
             dist/github-snake.svg
