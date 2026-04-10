@@ -1,0 +1,32 @@
+name: Gerar GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Instalar dependências
+        run: sudo apt-get install -y imagemagick
+
+      - name: Gerar cartões do GitHub
+        uses: vn7n24fzkq/github-profile-summary-cards-action@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: josegabrieldev
+          # temas disponíveis:
+          # dracula, github, github_dark, nord_bright, nord_dark,
+          # solarized, solarized_dark, vue, tokyonight, blue_green
+          themes: blue_green
+
+      - name: Commit e Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualizando profile-summary-cards"
