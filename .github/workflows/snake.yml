@@ -21,7 +21,6 @@ jobs:
         with:
           github_user_name: josegabrieldev
 
-          # Tema 100% personalizado DevSnake Blue Steel
           theme: |
             {
               "background": "#0F1724",
