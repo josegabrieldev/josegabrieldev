@@ -52,9 +52,29 @@ Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentaç
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&theme=tokyonight"/>
+  <!-- 🔥 Streak Stats -->
+  <img 
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&theme=tokyonight&hide_border=true"
+  />
 
-<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=josegabrieldev&cc=00000000&tc=1E90FF&ic=1E90FF&bc=00000000"/>
+ <!-- ⚡ Commits / Estatísticas Gerais -->
+  <img 
+    height="180em"
+    src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/main/profile-summary-card-output/blue_green/3-stats.svg"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+ <!-- 🧠 Linguagens -->
+  <img
+    height="180em"
+    src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/main/profile-summary-card-output/blue_green/2-most-commit-language.svg"
+  />
 
 </div>
 
