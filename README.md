@@ -63,10 +63,7 @@ Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentaç
 ## 🐍 DevSnake — Cada Commit, um Passo
 > const DevGabriel = () => "Criando hoje as interfaces do amanhã";
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/saida/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/saida/github-snake.svg" alt="snake animation"/>
-</picture>
+<img src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/saida/github-snake.svg" alt="snake animation" />
 
 ---
 
