@@ -46,7 +46,7 @@ Busco sempre evoluir para entregar experiências digitais **bonitas, funcionais 
 
 ### 📱 Projeto Social — Interface Moderna
 
-<img src="./projeto-social.png" width="80%" />
+<img src="assets/projeto-social.png" width="80%" />
 
 Interface moderna simulando um smartphone com integração de redes sociais e design focado em experiência do usuário.
 
@@ -56,7 +56,7 @@ Interface moderna simulando um smartphone com integração de redes sociais e de
 
 ### 📜 Cordel Moderno — Website Minimalista
 
-<img src="./projeto-cordel.png" width="80%" />
+<img src="assets/projeto-cordel.png" width="80%" />
 
 Projeto inspirado na cultura nordestina com tipografia estilizada e layout responsivo.
 
@@ -66,7 +66,7 @@ Projeto inspirado na cultura nordestina com tipografia estilizada e layout respo
 
 ### 💻 Portfólio — Website Responsivo
 
-<img src="./projeto-portfolio.png" width="80%" />
+<img src="assets/projeto-portfolio.png" width="80%" />
 
 Meu portfólio profissional com foco em UI moderna, responsividade e apresentação de projetos.
 
