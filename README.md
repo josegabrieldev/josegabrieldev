@@ -52,28 +52,25 @@ Simula a interface de um iPhone e exibe minhas redes sociais com uma apresentaç
 
 <div align="center">
 
-  <!-- 🔥 Streak Stats -->
   <img 
     height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&background=0A1122&hide_border=false&border_color=00ADEF&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF&currStreakNum=00ADEF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=12"
   />
 
- <!-- ⚡ Commits / Estatísticas Gerais -->
   <img 
-    height="180em"
-    src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/main/profile-summary-card-output/blue_green/3-stats.svg"
+    height="180em" 
+    src="https://github-readme-stats-fork-novo.vercel.app/api?username=josegabrieldev&show_icons=true&bg_color=0A1122&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide_border=false&border_color=00ADEF&border_radius=12"
   />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
- <!-- 🧠 Linguagens -->
-  <img
+  <img 
     height="180em"
-    src="https://raw.githubusercontent.com/josegabrieldev/josegabrieldev/main/profile-summary-card-output/blue_green/2-most-commit-language.svg"
+    src="https://github-readme-stats-fork-novo.vercel.app/api/top-langs/?username=josegabrieldev&layout=compact&bg_color=0A1122&title_color=00ADEF&text_color=FFFFFF&hide_border=false&border_color=00ADEF&border_radius=12"
   />
 
 </div>
