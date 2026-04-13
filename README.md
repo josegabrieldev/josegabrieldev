@@ -11,7 +11,7 @@ Busco sempre evoluir para entregar experiências digitais **bonitas, funcionais 
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20trabalho-7F00FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20trabalho-7F00FF?style=for-the-badge&labelColor=00C851&color=7F00FF&logoColor=white)
 
 </div>
 
@@ -33,7 +33,7 @@ Busco sempre evoluir para entregar experiências digitais **bonitas, funcionais 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00ADEF&center=true&vCenter=true&width=500&lines=HTML5+%7C+CSS3+%7C+JavaScript;Front-End+Responsivo;UI+Design+%7C+UX+Design;Código+limpo+e+moderno"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00ADEF&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+interfaces+modernas;Inovando+um+pouco+mais+a+cada+projeto;Front-End+elegante%2C+funcional+e+intuitivo;Experi%C3%AAncias+pensadas+para+pessoas+de+verdade;C%C3%B3digo+limpo%2C+r%C3%A1pido+e+de+impacto;Performance+%C3%A9+parte+do+design"/>
 
 </div>
 
@@ -44,33 +44,60 @@ Busco sempre evoluir para entregar experiências digitais **bonitas, funcionais 
 
 <div align="center">
 
-### 📱 Projeto Social — Interface Moderna
+<table>
+<tr><td align="center">
 
+### 📱 Projeto Social — Interface Moderna  
 <img src="assets/projeto-social.png" width="80%" />
 
-Interface moderna simulando um smartphone com integração de redes sociais e design focado em experiência do usuário.
+<p>
+Interface moderna simulando um smartphone com integração de redes sociais e design focado na experiência do usuário.
+</p>
 
-[🔗 Ver Projeto](#)
+<a href="https://josegabrieldev.github.io/projeto-social/" target="_blank">
+  <img src="https://img.shields.io/badge/✨%20Ver%20Projeto-7F00FF?style=for-the-badge&labelColor=111A33&color=7F00FF&logo=github&logoColor=white" />
+</a>
 
----
+</td></tr>
+</table>
 
-### 📜 Cordel Moderno — Website Minimalista
+<br>
 
+<table>
+<tr><td align="center">
+
+### 📜 Cordel Moderno — Website Minimalista  
 <img src="assets/projeto-cordel.png" width="80%" />
 
-Projeto inspirado na cultura nordestina com tipografia estilizada e layout responsivo.
+<p>
+Projeto inspirado na cultura nordestina com tipografia estilizada e layout completamente responsivo.
+</p>
 
-[🔗 Ver Projeto](#)
+<a href="https://josegabrieldev.github.io/projeto-cordel/" target="_blank">
+  <img src="https://img.shields.io/badge/✨%20Ver%20Projeto-7F00FF?style=for-the-badge&labelColor=111A33&color=7F00FF&logo=github&logoColor=white" />
+</a>
 
----
+</td></tr>
+</table>
 
-### 💻 Portfólio — Website Responsivo
+<br>
 
+<table>
+<tr><td align="center">
+
+### 💻 Portfólio — Website Responsivo  
 <img src="assets/projeto-portfolio.png" width="80%" />
 
-Meu portfólio profissional com foco em UI moderna, responsividade e apresentação de projetos.
+<p>
+Meu portfólio profissional com foco em UI moderna, responsividade e apresentação elegante dos projetos.
+</p>
 
-[🔗 Ver Projeto](#)
+<a href="https://josegabrieldev.github.io/portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/✨%20Ver%20Projeto-7F00FF?style=for-the-badge&labelColor=111A33&color=7F00FF&logo=github&logoColor=white" />
+</a>
+
+</td></tr>
+</table>
 
 </div>
 
@@ -82,7 +109,7 @@ Meu portfólio profissional com foco em UI moderna, responsividade e apresentaç
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&background=0A1122&border_color=00ADEF&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF&currStreakNum=00ADEF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=12"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=josegabrieldev&locale=pt-br&background=0A1122&border=00ADEF&stroke=00ADEF&ring=00ADEF&fire=00ADEF&currStreakLabel=00ADEF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=12"/>
 
 <img height="180em"
 src="https://github-readme-stats-fork-novo.vercel.app/api?username=josegabrieldev&show_icons=true&locale=pt-br&bg_color=0A1122&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&border_color=00ADEF&border_radius=12"/>
@@ -109,8 +136,7 @@ src="https://github-readme-stats-fork-novo.vercel.app/api/top-langs/?username=jo
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00ADEF&center=true&vCenter=true&width=600&lines=Const+DevGabriel+=+()+%3D%3E+%22Criando+hoje+as+interfaces+do+amanh%C3%A3%22"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=Const+DevGabriel+=+()+%3D%3E+%22Criando+hoje+as+interfaces+do+amanhã%22"/>
 </div>
 
 <div align="center">
